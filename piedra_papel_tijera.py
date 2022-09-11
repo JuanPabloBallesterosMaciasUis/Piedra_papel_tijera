@@ -17,7 +17,6 @@ print("|     |______________________|   |")
 print("+________________________________+")
 
 # intput
-bandera = False
 
 print("\n¡Elija una opcion para atacar!\n")
 #se despliega el menu para seleccionar la opcion : 
